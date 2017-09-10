@@ -14,7 +14,7 @@
          5.下面这条sql语句，实际上的形式是怎么样的？还记得之前说过，mybatis默认为preparedStatement吧，那么，用我们jdbc代码来看，它其实就是：
              select course_id as id, course_name as name, course_delete_flg as deleteFlag from t_course where course_id=?
      -->
-    <select id="selectByName"   resultType="com.b2c.tests.Studentss"  >
+    <select id="selectByName"   resultType="com.b2c.tests.Student"  >
         select * from student where name = #{name}
     </select>
 
