@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="b2c-item-service-client" />
+        <module name="b2c-item-service-dao" />
+        <module name="b2c-item-service-domain" />
+        <module name="b2c-item-service-rpc" />
+        <module name="b2c-item-service-service" />
+        <module name="b2c-item-service-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="b2c-item-service" target="1.8" />
+      <module name="b2c-item-service-client" target="1.8" />
+      <module name="b2c-item-service-dao" target="1.8" />
+      <module name="b2c-item-service-domain" target="1.8" />
+      <module name="b2c-item-service-rpc" target="1.8" />
+      <module name="b2c-item-service-service" target="1.8" />
+      <module name="b2c-item-service-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

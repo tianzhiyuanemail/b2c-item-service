@@ -4,19 +4,19 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.b2c</groupId>
-	<artifactId>b2c-member-service</artifactId>
+	<artifactId>b2c-item-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<modules>
-        <module>b2c-member-service-client</module>
-		<module>b2c-member-service-service</module>
-		<module>b2c-member-service-domain</module>
-		<module>b2c-member-service-rpc</module>
-		<module>b2c-member-service-dao</module>
-		<module>b2c-member-service-web</module>
+        <module>b2c-item-service-client</module>
+		<module>b2c-item-service-service</module>
+		<module>b2c-item-service-domain</module>
+		<module>b2c-item-service-rpc</module>
+		<module>b2c-item-service-dao</module>
+		<module>b2c-item-service-web</module>
 	</modules>
 	<packaging>pom</packaging>
 
-	<name>b2c-member-service</name>
+	<name>b2c-item-service</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>

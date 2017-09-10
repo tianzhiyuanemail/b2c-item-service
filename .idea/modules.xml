@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/b2c-item-service.iml" filepath="$PROJECT_DIR$/b2c-item-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b2c-item-service-client/b2c-item-service-client.iml" filepath="$PROJECT_DIR$/b2c-item-service-client/b2c-item-service-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b2c-item-service-dao/b2c-item-service-dao.iml" filepath="$PROJECT_DIR$/b2c-item-service-dao/b2c-item-service-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b2c-item-service-domain/b2c-item-service-domain.iml" filepath="$PROJECT_DIR$/b2c-item-service-domain/b2c-item-service-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b2c-item-service-rpc/b2c-item-service-rpc.iml" filepath="$PROJECT_DIR$/b2c-item-service-rpc/b2c-item-service-rpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b2c-item-service-service/b2c-item-service-service.iml" filepath="$PROJECT_DIR$/b2c-item-service-service/b2c-item-service-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b2c-item-service-web/b2c-item-service-web.iml" filepath="$PROJECT_DIR$/b2c-item-service-web/b2c-item-service-web.iml" />
+    </modules>
+  </component>
+</project>
